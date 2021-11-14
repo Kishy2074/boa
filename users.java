@@ -2,5 +2,5 @@ Percy
 Mercy
 Elvis
 King
-Kalifat
+kalifat
 Yusuf
